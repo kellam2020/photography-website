@@ -9,6 +9,8 @@
   padding: 1.25em;
   will-change: filter;
   transition: filter 300ms;
+  overflow: visible;
+  position: relative;
 }
 
 .logo:hover {
